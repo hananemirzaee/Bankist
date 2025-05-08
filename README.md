@@ -1,4 +1,5 @@
 # 💳 Bankist – Virtual Banking Application
+Bankist is a simple and interactive banking app built using HTML, CSS, and JavaScript. It was developed as part of a learning project to practice advanced JavaScript concepts, especially array methods, DOM manipulation, and user interaction.
 
 ## ✨ Features
 Login System – Log in with a username and PIN.
